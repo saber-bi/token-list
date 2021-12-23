@@ -58489,6 +58489,17 @@
     },
     {
       "chainId": 101,
+      "address": "DanCC5K1tGbywjjfnACYgxFtWn7emcsCVyqfRYu9KHXU",
+      "symbol": "SBR",
+      "name": "saber",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DanCC5K1tGbywjjfnACYgxFtWn7emcsCVyqfRYu9KHXU/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "9oiC3NueSWBAuGPj4ophbdwW9STQFD9AtCgcwhrC4P6M",
       "symbol": "GRNLF",
       "name": "GreenLeaf",
